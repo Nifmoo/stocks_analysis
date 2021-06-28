@@ -9,4 +9,4 @@ Analyzing stocks from certain years
  I have ran this code for two years in the file, 2017 and 2018.
  These are the results
  
- ![VBA_Challenge_2017] (https://github.com/Nifmoo/stocks_analysis/blob/main/VBA_Challenge_2017.PNG)
+ ![VBA_Challenge_2017] (github.com/Nifmoo/stocks_analysis/blob/main/VBA_Challenge_2017.PNG)
